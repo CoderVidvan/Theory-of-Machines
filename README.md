@@ -37,14 +37,6 @@ This project aims to:
 
 ---
 
-## 🐍 Why Python?
-
-- Simple and readable syntax
-- Great for educational tools
-- Easy integration with GUI libraries (Tkinter, PyQt)
-- Suitable for simulation and visualization
-
----
 
 ## 🚀 Getting Started
 
